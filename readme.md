@@ -1,4 +1,8 @@
-# This is a repo for our new GCP devops project
+# Docker Flask application
+
+- This app is written in python
+- It should be deployed on GKE
+
 
 
 
